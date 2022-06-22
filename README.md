@@ -7,6 +7,7 @@ Base plugin with testing suite and Docker. Easy setup for VSCode users.
 1. Docker
 2. Composer
 3. Nodejs
+4. PHP 7+
 
 ## Included DevTools & Tests
 
