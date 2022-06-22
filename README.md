@@ -30,6 +30,7 @@ Make sure you are matching case when replacing.
 1. Abbreviations: `WPP, wpp`
 2. Package: `WP_Plugin_Base`
 3. Container names: `wpp-plugin-db, wpp-plugin-app`
+4. File names: `wp-plugin-base`
 
 ## Setup 
 
