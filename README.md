@@ -20,7 +20,6 @@ If you are using VSCode, I'd suggest installing the following extensions to full
 1. PHP Debug - Step through your code by adding breakpoints, trigger on errors, and more.
 2. PHP Sniffer & Beautifier - Show PHPCS errors and auto fix files on save.
 3. Run on Save - Run PHPUnit on file save.
-```
 
 Tip: you can add a breakpoint and save any PHP file to trigger XDebug's stepper.
 
