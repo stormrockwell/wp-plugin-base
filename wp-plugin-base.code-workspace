@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../opensearch-connect"
+		}
+	],
+	"settings": {
+		"[php]": {
+			"editor.formatOnSave": true,
+		},
+		"emeraldwalk.runonsave": {
+			"autoClearConsole": true,
+			"commands": [
+				{
+					"match": "\\.php$",
+					"cmd": "docker-compose exec wpp cr phpunit"
+				}
+			]
+		}
+	}
+}
