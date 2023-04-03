@@ -41,7 +41,7 @@ class Sample {
 	}
 
 	/**
-	 * Add WP Hooks
+	 * Add WP Hooks.
 	 *
 	 * @return void
 	 */
